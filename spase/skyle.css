@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Hodil';
+    src: url(./font/HandilPro-Medium.otf);
+}
+body {
+    text-align: center;
+    color: rgb(229, 234, 239);
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0 auto;
+}
+.main{
+    background-image: url("https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNwYWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
+    padding: 400px;
+    padding-top: 100px;
+    background-size: cover;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+    color: rgb(87, 141, 141);
+    font-size: 20px;
+    font-family: 'Hondil';
+    border-radius: 20px;
+    top: 100px;
+}
+
+#underline {
+    border-bottom: 5px solid white;
+    border-radius: 10px;
+}
+a>img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: 70px;
+    bottom: 120px;
+    border-radius: 50px;
+}
+h2{
+    color: aqua;
+    background-color: black;
+    padding: 50px;
+    padding-top: 25px;
+    margin: 0 auto;
+
+}
